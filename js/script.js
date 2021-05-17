@@ -7,7 +7,8 @@ var app = new Vue(
     {
         el: "#root",
         data: {
-            messaggio: "Hello World"
+            messaggio: "Hello World",
+            immagine: "https://www.lagiornatatipo.it/wp-content/uploads/2016/11/copertina-1140x633.png"
         }
     }
 ); 
